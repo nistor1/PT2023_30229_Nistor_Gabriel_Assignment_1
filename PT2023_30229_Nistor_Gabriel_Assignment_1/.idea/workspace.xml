@@ -5,39 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bf6dfb0-0617-42ba-8a83-7f317e7fbb30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MVC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/Monomial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/Polynomial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Derivative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Integration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Subtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/view/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/view/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/controller/MonomialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/controller/PolynomialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/model/AdditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/model/DerivativeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/model/DivisionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/model/IntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/model/MultiplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/model/SubtractionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Monomial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Polynomial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Monomial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Polynomial.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,10 +136,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MVC" />
+        <item itemvalue="JUnit.PolynomialTest" />
         <item itemvalue="JUnit.org.example.controller in PT2023_30229_Nistor_Gabriel_Assignment_1" />
         <item itemvalue="JUnit.MonomialTest" />
         <item itemvalue="JUnit.PolynomialTest.wrongPolynomial" />
-        <item itemvalue="JUnit.PolynomialTest" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +166,14 @@
       <workItem from="1680102699652" duration="368000" />
       <workItem from="1680119736150" duration="8817000" />
       <workItem from="1680167889863" duration="55000" />
+      <workItem from="1680174651126" duration="3797000" />
+      <workItem from="1680289639356" duration="257000" />
+      <workItem from="1680289959508" duration="105000" />
+      <workItem from="1681988765212" duration="6000" />
+      <workItem from="1681989385841" duration="556000" />
+      <workItem from="1682510680346" duration="340000" />
+      <workItem from="1682545560627" duration="784000" />
+      <workItem from="1682585512984" duration="27000" />
     </task>
     <servers />
   </component>
